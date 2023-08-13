@@ -1,6 +1,6 @@
 # Projects
 
-## 1. IMDB 250 Analysis
+## 1. IMDB 250
 ## 2. World’s City Air & Water Data Cleaning
 ## 3. Supermarket Sales Data Cleaning & Analysis
 ## 4. Analyzing Recent Movie Trends
