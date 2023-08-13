@@ -1,6 +1,6 @@
 # Project Report
 
-## Report Name : Data Exploration Using SQL
+## Report Name : IMDB 250
 
 ### Introduction:
 This project aims to analyze data collected from the IMDB Top 250 movies to answer the questtion-
