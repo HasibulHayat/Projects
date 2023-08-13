@@ -1,6 +1,6 @@
 # Project Report
 
-## Report Name : Data Cleaning Using Excel
+## Report Name : Supermarket Sales Data Cleaning & Analysis
 
 ### Introduction:
 This project aims to clean and prepare a random datatset.
