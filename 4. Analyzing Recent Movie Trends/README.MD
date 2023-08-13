@@ -1,6 +1,6 @@
 # Project Report
 
-## Report Name : Movie Industry Project Using Excel
+## Report Name : Analyzing Recent Movie Trends
 
 ### Introduction:
 This project aims to analyze a movie dataset to gain insights.
