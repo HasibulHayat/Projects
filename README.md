@@ -7,3 +7,4 @@
 ## 5. Data Job Survey  Dashboard
 ## 6. Automated File Sorter
 ## 7. Instagram Data Modelling & Analytics
+## 8. 1500 Movies 30 Genres Website
