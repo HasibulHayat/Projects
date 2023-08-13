@@ -1,6 +1,6 @@
 # Project Report
 
-## Report Name : Data Cleaning Using SQL
+## Report Name : World’s City Air & Water Data Cleaning
 
 ### Introduction:
 This project aims to clean and prepare a random datatset.
