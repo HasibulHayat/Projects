@@ -1,6 +1,6 @@
 # Project Report
 
-## Report Name : Data Job Survey
+## Report Name : Data Job Survey Dashboard
 
 ### Introduction:
 This project aims to analyze data collected from a survey to determine the most in-demand job skills, the highest paying <br>
