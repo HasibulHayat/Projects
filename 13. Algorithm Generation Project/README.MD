@@ -18,7 +18,7 @@ To design a table called, the following columns will be included:
 5. transaction_date
 6. created_at
 
-To speed up reporting & optimize transaction table,
-the following techniques are considered :
+**To speed up reporting & optimize transaction table,
+the following techniques are considered :**
 
 ### Indexing :
