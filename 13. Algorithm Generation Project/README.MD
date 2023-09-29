@@ -13,7 +13,7 @@ To design an optimized transaction table, the following columns will be included
 
 1. transaction_id (Primary Key)
 2. account_id (Foreign Key)
-3. transaction_date
+3. transaction_type (Credit/Debit)
 4. amount
-5. transaction_type (Credit/Debit)
+5. transaction_date
 6. created_at
