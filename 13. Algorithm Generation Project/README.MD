@@ -39,3 +39,7 @@ Utilizing both indexing and partitioning can offer a powerful combination for op
 ### Views :
 
 If the queries of the report have to be generated regularly or you have to perform complex joins or aggregations, encapsulating them in a view is a good idea. So, I've put all the queries in a views.
+
+### Stored Procedure :
+
+You can also combine stored procedures and views for faster reporting. But the code is gonna be too complex to understand and debug. So, I didn't go ahead with the process.
