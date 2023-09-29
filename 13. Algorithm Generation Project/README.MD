@@ -18,8 +18,12 @@ There is no specific design for your reference. You can apply any design pattern
 5. transaction_date
 6. created_at
 
+<br>
+
 **To speed up reporting & optimize transaction table,
 the following techniques are considered :**
+
+<br>
 
 ### Indexing :
 
