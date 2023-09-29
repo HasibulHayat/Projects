@@ -9,7 +9,7 @@ There is no specific design for your reference. You can apply any design pattern
 
 ### Database Design
 
-To design an optimized transaction table, the following columns will be included:
+To design a table called, the following columns will be included:
 
 1. transaction_id (Primary Key)
 2. account_id (Foreign Key)
