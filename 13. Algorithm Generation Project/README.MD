@@ -34,7 +34,7 @@ the following techniques are considered :**
 
 ### Partitioning :
 
-Utilizing both indexing and partitioning can offer a powerful combination for optimizing query performance and managing large datasets. But I could'nt finish the partitioning code.
+Utilizing both indexing and partitioning can offer a powerful combination for optimizing query performance and managing large datasets. But I couldn't finish the partitioning code.
 
 ### Views :
 
