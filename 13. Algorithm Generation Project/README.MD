@@ -43,3 +43,11 @@ If the queries of the report have to be generated regularly or you have to perfo
 ### Stored Procedure :
 
 You can also combine stored procedures and views for faster reporting. But the code is gonna be too complex to understand and debug. So, I didn't go ahead with the process.
+
+### Optimized Queries :
+
+Always try to write queries that are efficient and optimized.
+
+### Denormalization :
+
+Denormalization improves the performance of certain types of queries. Data Warehouse stores the data from Transaction Tables using this technique. It's great for faster queries.
