@@ -4,11 +4,11 @@
 -- Creating transactions table
 CREATE TABLE transactions (
     transaction_id INT PRIMARY KEY IDENTITY(1, 1),
-	account_id INT NOT NULL,
-	transaction_type VARCHAR(20) CHECK (transaction_type IN ('Debit', 'Credit')),
-	amount DECIMAL(20, 5),
-	transaction_date DATETIME,
-	created_at DATETIME DEFAULT GETDATE()
+    account_id INT NOT NULL,
+    transaction_type VARCHAR(20) CHECK (transaction_type IN ('Debit', 'Credit')),
+    amount DECIMAL(20, 5),
+    transaction_date DATETIME,
+    created_at DATETIME DEFAULT GETDATE()
 )
 
 
