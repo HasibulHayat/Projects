@@ -6,6 +6,7 @@ How will you design a transaction table for accounting software to generate fast
 One has to generate a report from this table using raw Python without using any library or framework. 
 There is no specific design for your reference. You can apply any design pattern you wish.
 
+<br>
 
 ## Database Design
 
@@ -22,8 +23,6 @@ There is no specific design for your reference. You can apply any design pattern
 
 **To speed up reporting & optimize transaction table,
 the following techniques are considered :**
-
-<br>
 
 ### Indexing :
 
