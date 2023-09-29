@@ -31,3 +31,11 @@ the following techniques are considered :**
 **2. Non-Clustered Indexes :** For frequently querying transactions for specific accounts, transaction_types, date ranges consider adding non-clustered index on the account_id, transaction_type and transaction_date.
 
 **3. Composite Index :** For frequently querying multiple columns, consider a composite index. For example, if you often need to find transactions for a specific account within a date range, a composite index on account_id and transaction_date is useful.
+
+### Partitioning :
+
+Utilizing both indexing and partitioning can offer a powerful combination for optimizing query performance and managing large datasets. But I could'nt finish the partitioning code.
+
+### Views :
+
+If the queries of the report have to be generated regularly or you have to perform complex joins or aggregations, encapsulating them in a view is a good idea. So, I've put all the queries in a views.
