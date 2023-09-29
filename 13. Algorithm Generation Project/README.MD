@@ -51,3 +51,8 @@ Always try to write queries that are efficient and optimized.
 ### Denormalization :
 
 Denormalization improves the performance of certain types of queries. Data Warehouse stores the data from Transaction Tables using this technique. It's great for faster queries.
+
+<br>
+
+## Reporting with python :
+
