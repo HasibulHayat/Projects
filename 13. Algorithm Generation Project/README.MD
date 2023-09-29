@@ -7,9 +7,9 @@ One has to generate a report from this table using raw Python without using any 
 There is no specific design for your reference. You can apply any design pattern you wish.
 
 
-### Database Design
+## Database Design
 
-To design a table called, the following columns will be included:
+**To design a table called, the following columns will be included :**
 
 1. transaction_id (Primary Key)
 2. account_id (Foreign Key)
