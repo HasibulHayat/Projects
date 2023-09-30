@@ -26,6 +26,8 @@ the following techniques are considered :**
 
 ### Indexing :
 
+I've used these three types of indexing here.
+
 **1. Primary Index :** transaction_id as a PRIMARY KEY, which automatically creates a unique clustered index on that column. This is usually sufficient for queries that filter or sort based on transaction_id.
 
 **2. Non-Clustered Indexes :** For frequently querying transactions for specific accounts, transaction_types, date ranges consider adding non-clustered index on the account_id, transaction_type and transaction_date.
@@ -46,11 +48,11 @@ You can also combine stored procedures and views for faster reporting. But the c
 
 ### Optimized Queries :
 
-Always try to write queries that are efficient and optimized.
+I've tried to write queries that are efficient and optimized.
 
 ### Denormalization :
 
-Denormalization improves the performance of certain types of queries. Data Warehouse stores the data from Transaction Tables using this technique. It's great for faster queries.
+Denormalization improves the performance of certain types of queries. Data Warehouse stores the data from Transaction Tables using this technique. It's great for faster queries. Since I've used only one table this technique isn't needed here.
 
 <br>
 
