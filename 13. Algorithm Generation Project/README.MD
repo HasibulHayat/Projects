@@ -62,4 +62,5 @@ PyCharm Professional Edition has plugins to connect a variety fo databases direc
 
 ## Report :
 
-Add image here!
+<img src = "https://github.com/HasibulHayat/Projects/blob/main/13.%20Algorithm%20Generation%20Project/Images/1.png">
+<img src = "https://github.com/HasibulHayat/Projects/blob/main/13.%20Algorithm%20Generation%20Project/Images/2.png">
