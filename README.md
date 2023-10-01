@@ -11,3 +11,5 @@
 ## 9. Library Management System
 ## 10. Supermarket ETL Pipeline & Data Warehouse
 ## 11. FPL Analysis
+## 12. Scraping Flight Data Using PlayWright
+## 13. Algorithm Generation Project
