@@ -1,4 +1,4 @@
-'''
+```
 # Find The Minimum Element
 
 
@@ -36,4 +36,4 @@ else:
 # Checking if the function works
 
 print(find_min_num(nums))
-'''
+```
