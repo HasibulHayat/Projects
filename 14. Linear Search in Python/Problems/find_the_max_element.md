@@ -1,7 +1,6 @@
 # Task Description:
-<br>
 
-## Find the Maximum Element : Given an array of integers, find the maximum element in the array.
+Find the Maximum Element : Given an array of integers, find the maximum element in the array.
 
 <br>
 
