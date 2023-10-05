@@ -4,9 +4,9 @@
 
 <br>
 
-**Time Complexity :** Since the algorithm needs to examine each each of the array once, time complexity is **O(n)**
+**Time Complexity :** Since the algorithm needs to examine each each of the array once, time complexity is **'O(n)'**
 
-**Space Complexity :** Since we only use a constant amount of extra space to store variables like **max_element**, which don't depend on the size of the input array, space complexity is **O(1)**
+**Space Complexity :** Since we only use a constant amount of extra space to store variables like **max_element**, which don't depend on the size of the input array, space complexity is **'O(1)'**
 
 <br>
 
