@@ -1,13 +1,11 @@
 # Task Description:
 <br>
 
-**Find the Maximum Element :** Given an array of integers, find the maximum element in the array.
+## Find the Maximum Element : Given an array of integers, find the maximum element in the array.
 
 <br>
 
 **Time Complexity :** Since the algorithm needs to examine each each of the array once, time complexity is **O(n)**
-
-<br>
 
 **Space Complexity :** Since we only use a constant amount of extra space to store variables like **max_element**, which don't depend on the size of the input array, space complexity is **O(1)**
 
