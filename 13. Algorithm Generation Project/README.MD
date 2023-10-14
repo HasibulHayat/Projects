@@ -58,7 +58,7 @@ Denormalization improves the performance of certain types of queries. Data Wareh
 
 ## Reporting with python :
 
-PyCharm Professional Edition has plugins to connect a variety fo databases directly but PyCharm Community Edition, which is the free version uses libraries to do this. I have thought of using ***pyodbc*** to connect my SQL Server database to PyCharm. Since, no libraries or modules can't be used so I've manually input the query results and made a report from them. 
+PyCharm Professional Edition has plugins to connect a variety fo databases directly but PyCharm Community Edition, which is the free version uses libraries to do this. I have thought of using ***pyodbc*** to connect my SQL Server database to PyCharm. Since, no libraries or modules can be used so I've manually input the query results and made a report from them. 
 
 <br>
 
