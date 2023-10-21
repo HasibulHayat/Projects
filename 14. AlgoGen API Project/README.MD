@@ -93,7 +93,7 @@ if __name__ == '__main__':
 
 <br>
 
-- **Here's how the Flask API looks :**
+- **Here's how the Flask API looks**
 
 <br>
 
