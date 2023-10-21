@@ -93,6 +93,14 @@ if __name__ == '__main__':
 
 <br>
 
+- ** Here's how the Flask API looks :**
+
+<br>
+
+<img src="https://github.com/HasibulHayat/Projects/blob/main/14.%20AlgoGen%20API%20Project/Codes/Flask%20App%20Image.png">
+
+<br>
+
 ### SQL Code :
 
 - You can use a SQL trigger for the last two columns **(diff & diff%)** that was given to me. If the table has data inserted into the first three columns, it will automatically populate the last two columns using the trigger. 
@@ -162,4 +170,4 @@ SELECT * FROM api_data_table;
 
 <br>
 
-<img src="https://github.com/HasibulHayat/Projects/blob/main/14.%20AlgoGen%20API%20Project/Codes/SQLQuery2.sql%20-%20DESKTOP-HASIB_SQLEXPRESS.interview%20(DESKTOP-HASIB_User%20(69))_%20-%20Microsoft%20SQL%20Server%20Management%20Studio%2010_21_2023%208_40_22%20PM.png">
+<img src="https://github.com/HasibulHayat/Projects/blob/main/14.%20AlgoGen%20API%20Project/Codes/Table%20Image.png">
