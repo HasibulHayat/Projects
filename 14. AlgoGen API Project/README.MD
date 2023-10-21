@@ -155,3 +155,8 @@ VALUES ('A', 120, 150), ('B', 200, 170), ('C', 100, 40);
 -- Checking if the trigger works
 SELECT * FROM api_data_table;
 ```
+
+<br>
+
+**Here's how the table looks like after inserting data**
+<img src="https://github.com/HasibulHayat/Projects/blob/main/14.%20AlgoGen%20API%20Project/Codes/SQLQuery2.sql%20-%20DESKTOP-HASIB_SQLEXPRESS.interview%20(DESKTOP-HASIB_User%20(69))_%20-%20Microsoft%20SQL%20Server%20Management%20Studio%2010_21_2023%208_40_22%20PM.png">
