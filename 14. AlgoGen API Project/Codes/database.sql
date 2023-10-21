@@ -43,7 +43,7 @@ BEGIN
 END;
 
 
--- Insert data into table
+-- Inserting data into table
 INSERT INTO api_data_table (heads, number_static, live)
 VALUES ('A', 120, 150), ('B', 200, 170), ('C', 100, 40);
 
