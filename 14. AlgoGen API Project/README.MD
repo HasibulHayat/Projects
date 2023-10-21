@@ -44,7 +44,9 @@ if __name__ == '__main__':
 
 <br>
 
-- Then I tried to connect the Flask app to SQL Server. I couldn't get it done. One of my friend from varsity helped me use **pyodbc** to connect the app to a database. For some reasons, it just wouldn't connect. We tried almost everything. Nothing worked in the end.
+- Then I tried to connect the Flask app to SQL Server. I couldn't get it done. One of my friend from varsity helped me use **pyodbc** to connect the app to a database. For some reasons, it just wouldn't connect. We tried almost everything. Nothing worked in the end. Here is code with **pyodbc** :
+
+<br>
 
 ```
 from flask import Flask, request
